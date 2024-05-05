@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maniya Devagn</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- Check This Live Projects:
+- Check This Live Projects: <br>
     [Box Shadow Generator](https://devagn611.github.io/Project_UI/box_shadow_ui/) <br>
     [Toss Coin](https://devagn611.github.io/Project_UI/CoinFlip/TossCoin/) <br>
     [Portfolio](https://devagn611.github.io/Project_UI/Portfolio_dev/)
