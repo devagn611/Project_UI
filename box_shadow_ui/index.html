@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Box Shadow Generator | Devagn Maniya</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <nav>
+        <ul class="nav-links">
+          <li class="link"><a href="#">Home</a></li>
+          <li class="link"><a href="#">Shadow-Generator</a></li>
+          <li class="link"><a href="https://github.com/devagn611" target="_blank">GitHub</a></li>
+        </ul>
+        <!-- <button class="btn"><a href="https://github.com/devagn611" target="_blank">GitHub</button></a> -->
+      </nav>
+  
+    <div class="container">
+
+        <div class="box-container">
+            <div id="box"></div>
+        </div>
+        
+        <div id="controls">
+            <div class="value-section">
+                <label for="h-offset">Horizontal Offset :</label>
+                <input type="range" id="h-offset" min="-50" max="50" value="30">
+        
+                <label for="v-offset">Vertical Offset :</label>
+                <input type="range" id="v-offset" min="-50" max="50" value="30">
+        
+                <label for="blur">Blur :</label>
+                <input type="range" id="blur" min="0" max="50" value="30">
+        
+                <label for="spread">Spread :</label>
+                <input type="range" id="spread" min="0" max="50" value="0">
+        
+                
+            </div>
+            <div class="controler-section">
+                <div class="color-part">
+                    <label for="color">Color: </label>
+                    <input type="color" id="color" value="#291165">
+                </div>
+                
+                <div id="code-container">
+                    <textarea id="code" readonly></textarea>
+                    <div class="button">
+                        <button id="copy-button">Copy Code</button>
+                        <button id="reset-button">Reset</button>
+                    </div>
+                    
+                </div>
+            </div>
+            
+        </div>
+    </div>
+    
+
+    <script src="script.js">
+       
+    </script>
+</body>
+</html>
