@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **NodeJS, React, BootStrap**
 
-- 👨‍💻 All of my projects are available at [https://devagn-portfolio.onrender.com/](https://devagn-portfolio.onrender.com/)
+- 👨‍💻 All of my projects are available at [Devagn-Portfolio](https://devagn-portfolio.onrender.com/)
 
 - 💬 Ask me about **FullStack Web Development, DSA, C++**
 
