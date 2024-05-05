@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Maniya Devagn</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- Check This Live Projects:
+    [Box Shadow Generator](https://devagn611.github.io/Project_UI/box_shadow_ui/)
+    [Toss Coin](https://devagn611.github.io/Project_UI/CoinFlip/TossCoin/)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devagn611&label=Profile%20views&color=0e75b6&style=flat" alt="devagn611" /> </p>
 
 - 🔭 I’m currently working on [UI Projects](https://github.com/devagn611/Project_UI)
@@ -14,10 +18,6 @@
 - 📫 How to reach me **devagnmaniya611@gmail.com**
 
 - ⚡ Fun fact **I think I am Fun Developer😀**
-
-- Check This Live Projects:
-    [Box Shadow Generator](https://devagn611.github.io/Project_UI/box_shadow_ui/)
-    [Toss Coin](https://devagn611.github.io/Project_UI/CoinFlip/TossCoin/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
